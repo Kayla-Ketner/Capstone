@@ -63,8 +63,9 @@ Outdoor events are very popular across Nashville, TN. From personal family reuni
     -Each variable was normalized by using the standard deviation to get their z-score.
 - Define preferred weather per season for an outdoor event based on seasonal averages and    
     most common weather patterns.
-        - Each day was scored based on multiple weather variables, such as precipitation, minimum daily temperature, and average daily wind speed. The z-scores were input into 3 different functions, each given different weights or ranges to the particular weather variables. Each date will then have 3 scores (out of 10) that users can choose from based on their individual weather preferences. For instance, Score 1 may be a 4.5 with all weather variables taken into equal account, but Score 3 might be a 7, making the day more ideal for an outdoor event, taking in a greater chance of cooler temperatures and precipitation.
-        - Group each seasonal dataframe by day.
+    - Each day was scored based on multiple weather variables, such as precipitation, minimum 
+        daily temperature, and average daily wind speed. The z-scores were input into 3 different functions, each given different weights or ranges to the particular weather variables. Each date will then have 3 scores (out of 10) that users can choose from based on their individual weather preferences. For instance, Score 1 may be a 4.5 with all weather variables taken into equal account, but Score 3 might be a 7, making the day more ideal for an outdoor event, taking in a greater chance of cooler temperatures and precipitation.
+    - Group each seasonal dataframe by day.
 - Determine the 7 day period per season that is most likely to have 'ideal' weather type for 
     each score, using a rolling window aggregate. 
 - Use NWS Climate Prediction for Dec. 2024-Nov. 2025 to inform how this date range may be 
