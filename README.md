@@ -10,6 +10,7 @@ Based upon the past 50 years of weather data, what day(s) have the most consiste
 - [Data Question](#data-question)
 - [Table of Contents](#table-of-contents)
 - [Executive Summary](#executive-summary)
+- [Presentation](#presentation)
 - [Technologies](#technologies)
 - [Usage](#usage)
 - [Motivation](#motivation)
@@ -21,6 +22,15 @@ Based upon the past 50 years of weather data, what day(s) have the most consiste
 [(Back to top)](#table-of-contents)
 
 "What’s the weather like?” is a question many of us ask every day; it influences what we wear, what we do, and even our mood. Think about how bad weather can turn a sunny day spent swimming bad with a single clap of thunder or that magical feeling of seeing a hint of sunshine after a week of rain. The weather influences our day-to-day life, so of course that influence is magnified for outdoor events, such as festivals or weddings. Using historical weather data and weather prediction models from the National Oceanic and Atmospheric Administration (NOAA), seasonal windows of 7 days will be identified where the weather has historically been ‘ideal’ for an outdoor event. Ideal weather changes per season, for instance, sunny and not raining is perfect for summer but extreme heat and humidity can make it miserable. Identifying the ideal weather per season, narrowing it to a specific window, and then using it to predict those dates for the upcoming year will be the scope of this project.
+
+## Presentation
+Link to Presentation Slides: (#https://docs.google.com/presentation/d/15eRJfFJTaePvzXuaNnAYVntRs_9X8r-j/edit?usp=sharing&ouid=115739610776338485375&rtpof=true&sd=true)
+
+Link to Dashboards:
+Winter: (#https://app.powerbi.com/view?r=eyJrIjoiZTdiZTk3OTEtYjg4Yi00ZDRlLTlkY2MtMzVmYzk4YTcwOWI5IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+Spring: (#https://app.powerbi.com/view?r=eyJrIjoiZWQ2Y2VhOTctNzZlNy00YTRmLWIwYjQtYjdlNWVkMzRjMzNkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+Summer: (#https://app.powerbi.com/view?r=eyJrIjoiZmE2MjA0YWEtODFlYy00ODk0LTlhY2YtNjkzNGViYmRmMDUwIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+Fall: (#https://app.powerbi.com/view?r=eyJrIjoiNjEwZjdlMWEtMGI2ZC00MDBjLWI5NDYtNDA3Yjk4ZTk5Nzg2IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 ## Technologies
 [(Back to top)](#table-of-contents)
